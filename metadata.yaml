@@ -1,0 +1,26 @@
+_repo: Sixty-years-with-Plymouth-Church_24356
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Griswold, Stephen Morrell
+    birthdate: 1835
+    deathdate: 1916
+    gutenberg_agent_id: '26424'
+    url: http://www.gutenberg.org/2009/agents/26424
+description: ''
+gutenberg_issued: '2008-01-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24356'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Plymouth Church (Brooklyn, New York, N.Y.)'
+- !lcc 'BX'
+title: Sixty years with Plymouth Church
+url: http://www.gutenberg.org/ebooks/24356
